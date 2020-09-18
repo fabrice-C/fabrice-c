@@ -46,18 +46,20 @@ following my training at Simplon in 2020
  
 <h4 Align="left">🎨 Infographics 🎨<h4>
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  | InDesign |
- Gimp
+ <img src="https://user-images.githubusercontent.com/52313745/93635919-595f2c00-f9f3-11ea-8b57-7fe3a275c258.png" alt="Photoshop" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93635917-58c69580-f9f3-11ea-9776-1cc1a2fa2c5d.png" alt="InDesign" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93635911-57956880-f9f3-11ea-9241-f087f6b49412.png" alt="Illustrator" width="40" height="40"/>
+
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/>
 </p>
  
 <h4 Align="left">💻 Microsoft Office Suite 📊<h4>
 <p align="left">
- Excel |
- Access |
- Word |
- Powerpoint
+ <img src="https://user-images.githubusercontent.com/52313745/93636102-9f1bf480-f9f3-11ea-800a-a5c1811b2fd8.jpg" alt="Office365_Apps" width="200" height="80"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="VBA" width="120" height="80"/>
+ <!--- ![Logo_Office365_Apps](https://user-images.githubusercontent.com/52313745/93636102-9f1bf480-f9f3-11ea-800a-a5c1811b2fd8.jpg)
+ ![Logo_VBA](https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png)
+ ![Logo_VBA_2](https://user-images.githubusercontent.com/52313745/93636107-a04d2180-f9f3-11ea-8005-a94b54835901.png)-->
 </p>
 <hr>
 <h3 align="left">🤝 Social 🖖</h3>
