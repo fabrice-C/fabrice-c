@@ -44,7 +44,7 @@ following my training at Simplon in 2020
  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 </p>
  
-<h4 Align="left">🔥 Infographics 🔥<h4>
+<h4 Align="left">🎨 Infographics 🎨<h4>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -52,7 +52,7 @@ following my training at Simplon in 2020
  Gimp
 </p>
  
-<h4 Align="left">🔥 Microsoft Office Suite 🔥<h4>
+<h4 Align="left">💻 Microsoft Office Suite 📊<h4>
 <p align="left">
  Excel |
  Access |
@@ -60,7 +60,7 @@ following my training at Simplon in 2020
  Powerpoint
 </p>
 <hr>
-<h3 align="left">Social</h3>
+<h3 align="left">🤝 Social 🖖</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fabrice-chapier-marketing-digital-dev-web" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabrice-chapier-marketing-digital-dev-web" height="30" width="30" /></a> LinkedIn 🚀
 </p>
