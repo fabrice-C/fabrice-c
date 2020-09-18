@@ -4,7 +4,7 @@
 
 ### A passionate frontend developer from France
 
-![Sp-FCH-Abstract Photo LinkedIn Banner (1)](https://user-images.githubusercontent.com/52313745/93642155-e0190680-f9fd-11ea-86a9-dedb7ba84462.png)
+![Sp-FCH-Abstract Photo LinkedIn Banner (2)](https://user-images.githubusercontent.com/52313745/93642724-d8a62d00-f9fe-11ea-9bd8-93e5d8d4f1ce.png)
 <!--
 **fabrice-C/fabrice-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
