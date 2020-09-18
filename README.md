@@ -47,7 +47,7 @@ following my training at Simplon in 2020
  <img src="https://user-images.githubusercontent.com/52313745/93638215-33d42180-f9f7-11ea-8860-574408259e29.png" alt="WordPress" width="50" height="40"/>
 </p>
  
-<h4 Align="left">🎨 Infographics 🎨<h4>
+<!-- <h4 Align="left">🎨 Infographics 🎨<h4> -->
 <p align="left">
  <img src="https://user-images.githubusercontent.com/52313745/93635919-595f2c00-f9f3-11ea-8b57-7fe3a275c258.png" alt="Photoshop" width="50" height="50"/>
  <img src="https://user-images.githubusercontent.com/52313745/93635917-58c69580-f9f3-11ea-9776-1cc1a2fa2c5d.png" alt="InDesign" width="50" height="50"/>
@@ -56,7 +56,7 @@ following my training at Simplon in 2020
  <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="50" height="50"/>
 </p>
  
-<h4 Align="left">💻 Microsoft Office Suite 📊<h4>
+<!-- <h4 Align="left">💻 Microsoft Office Suite 📊<h4> -->
 <p align="left">
  <img src="https://user-images.githubusercontent.com/52313745/93638214-333b8b00-f9f7-11ea-9601-33bf5523600a.jpg" alt="Office365" width="225" height="110"/>
  <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="VBA" width="140" height="80"/>
