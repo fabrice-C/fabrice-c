@@ -41,29 +41,28 @@ following my training at Simplon in 2020
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
- <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
+ <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93638215-33d42180-f9f7-11ea-8860-574408259e29.png" alt="WordPress" width="50" height="40"/>
 </p>
  
 <h4 Align="left">🎨 Infographics 🎨<h4>
 <p align="left">
- <img src="https://user-images.githubusercontent.com/52313745/93635919-595f2c00-f9f3-11ea-8b57-7fe3a275c258.png" alt="Photoshop" width="40" height="40"/>
- <img src="https://user-images.githubusercontent.com/52313745/93635917-58c69580-f9f3-11ea-9776-1cc1a2fa2c5d.png" alt="InDesign" width="40" height="40"/>
- <img src="https://user-images.githubusercontent.com/52313745/93635911-57956880-f9f3-11ea-9241-f087f6b49412.png" alt="Illustrator" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93635919-595f2c00-f9f3-11ea-8b57-7fe3a275c258.png" alt="Photoshop" width="50" height="50"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93635917-58c69580-f9f3-11ea-9776-1cc1a2fa2c5d.png" alt="InDesign" width="50" height="50"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93635911-57956880-f9f3-11ea-9241-f087f6b49412.png" alt="Illustrator" width="50" height="50"/>
 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="50" height="50"/>
 </p>
  
 <h4 Align="left">💻 Microsoft Office Suite 📊<h4>
 <p align="left">
- <img src="https://user-images.githubusercontent.com/52313745/93636102-9f1bf480-f9f3-11ea-800a-a5c1811b2fd8.jpg" alt="Office365_Apps" width="200" height="80"/>
- <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="VBA" width="120" height="80"/>
- <!--- ![Logo_Office365_Apps](https://user-images.githubusercontent.com/52313745/93636102-9f1bf480-f9f3-11ea-800a-a5c1811b2fd8.jpg)
- ![Logo_VBA](https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png)
- ![Logo_VBA_2](https://user-images.githubusercontent.com/52313745/93636107-a04d2180-f9f3-11ea-8005-a94b54835901.png)-->
+ <img src="https://user-images.githubusercontent.com/52313745/93638210-320a5e00-f9f7-11ea-8583-6107be9c322b.jpg" alt="Access" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93638214-333b8b00-f9f7-11ea-9601-33bf5523600a.jpg" alt="Access" width="225" height="110"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="Access" width="120" height="80"/>
 </p>
 <hr>
 <h3 align="left">🤝 Social 🖖</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fabrice-chapier-marketing-digital-dev-web" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabrice-chapier-marketing-digital-dev-web" height="30" width="30" /></a> LinkedIn 🚀
+<a href="https://linkedin.com/in/fabrice-chapier-marketing-digital-dev-web" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabrice-chapier-marketing-digital-dev-web" height="50" width="50" /></a> LinkedIn 🚀
 </p>
  <hr>
