@@ -3,6 +3,8 @@
 # I'm Fabrice Chapier,
 
 ### A passionate frontend developer from France
+
+![Sp-FCH-Abstract Photo LinkedIn Banner (1)](https://user-images.githubusercontent.com/52313745/93642155-e0190680-f9fd-11ea-86a9-dedb7ba84462.png)
 <!--
 **fabrice-C/fabrice-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
