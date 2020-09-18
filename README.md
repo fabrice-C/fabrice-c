@@ -56,9 +56,9 @@ following my training at Simplon in 2020
  
 <h4 Align="left">💻 Microsoft Office Suite 📊<h4>
 <p align="left">
- <img src="https://user-images.githubusercontent.com/52313745/93638210-320a5e00-f9f7-11ea-8583-6107be9c322b.jpg" alt="Access" width="40" height="40"/>
- <img src="https://user-images.githubusercontent.com/52313745/93638214-333b8b00-f9f7-11ea-9601-33bf5523600a.jpg" alt="Access" width="225" height="110"/>
- <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="Access" width="120" height="80"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93638214-333b8b00-f9f7-11ea-9601-33bf5523600a.jpg" alt="Office365" width="225" height="110"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93636104-a04d2180-f9f3-11ea-8bd1-da3a403b57fb.png" alt="VBA" width="140" height="80"/>
+ <img src="https://user-images.githubusercontent.com/52313745/93638210-320a5e00-f9f7-11ea-8583-6107be9c322b.jpg" alt="Access" width="60" height="50"/>
 </p>
 <hr>
 <h3 align="left">🤝 Social 🖖</h3>
