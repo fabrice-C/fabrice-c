@@ -29,9 +29,9 @@ following my training at Simplon in 2020
 ⚡ Fun fact: ... Learn to evolve, bounce back and keep smiling / Apprends pour évoluer, rebondis et gardes le sourire !
 
 <hr>
-<h3 align="left">Skills</h3>
+<h3 align="left">🔥 Skills 🔥</h3>
 
-<h4 aligne=left">🔥 Web 🔥<h4>
+<!--- <h4 aligne=left">🔥 Web 🔥<h4> -->
 <p Align="Left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -63,7 +63,7 @@ following my training at Simplon in 2020
  <img src="https://user-images.githubusercontent.com/52313745/93638210-320a5e00-f9f7-11ea-8583-6107be9c322b.jpg" alt="Access" width="60" height="50"/>
 </p>
 <hr>
-<h3 align="left">🤝 Social 🖖</h3>
+<h3 align="left">🖖 Social 🤝</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fabrice-chapier-marketing-digital-dev-web" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabrice-chapier-marketing-digital-dev-web" height="50" width="50" /></a> LinkedIn 🚀
 </p>
