@@ -41,7 +41,7 @@ following my training at Simplon in 2020
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
- <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/52313745/93638215-33d42180-f9f7-11ea-8860-574408259e29.png" alt="WordPress" width="50" height="40"/>
 </p>
  
