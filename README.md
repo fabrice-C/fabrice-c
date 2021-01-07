@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ... CSS Tricks and tips
+🔭 I’m currently working on ... PHP, Symfony new version and CSS3, SASS
 
 🌱 I’m currently learning ... ReactJS and VueJS
 
@@ -53,7 +53,7 @@ following my training at Simplon in 2020
  <img src="https://user-images.githubusercontent.com/52313745/93635917-58c69580-f9f3-11ea-9776-1cc1a2fa2c5d.png" alt="InDesign" width="50" height="50"/>
  <img src="https://user-images.githubusercontent.com/52313745/93635911-57956880-f9f3-11ea-9241-f087f6b49412.png" alt="Illustrator" width="50" height="50"/>
 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="50" height="50"/>
 </p>
  
 <!-- <h4 Align="left">💻 Microsoft Office Suite 📊<h4> -->
