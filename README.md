@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ... PHP, Symfony new version and CSS3, SASS
+🔭 I’m currently working on ... PHP, Symfony, Javascript, CSS3, SASS
 
 🌱 I’m currently learning ... ReactJS and VueJS
 
@@ -34,7 +34,8 @@ following my training at Simplon in 2020
 <!--- <h4 aligne=left">🔥 Web 🔥<h4> -->
 <p Align="Left">
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="CSS" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
@@ -42,6 +43,9 @@ following my training at Simplon in 2020
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg" alt="chocolatey" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualBox" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/52313745/93638215-33d42180-f9f7-11ea-8860-574408259e29.png" alt="WordPress" width="50" height="40"/>
