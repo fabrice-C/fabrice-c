@@ -34,9 +34,9 @@ following my training at Simplon in 2020
 <!--- <h4 aligne=left">🔥 Web 🔥<h4> -->
 <p Align="Left">
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="CSS" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/52313745/103915475-8c950a80-510b-11eb-90e0-85e03bc85d61.png" alt="CSS" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+ <img src="https://user-images.githubusercontent.com/52313745/103915474-8c950a80-510b-11eb-938d-628d28f59661.png" alt="javascript" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpMyAdmin" width="40" height="40"/>
