@@ -1,6 +1,6 @@
 ## Hi Everybody, Salut le monde 👋
 
-# I'm Fabrice Chapier,
+# I'm / je suis Fabrice Chapier,
 
 ### A passionate frontend developer from France
 
@@ -10,15 +10,15 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ... PHP, Symfony, Javascript, CSS3, SASS
+🔭 I’m currently working on ... PHP, Symfony, MySQL, Javascript, CSS3, SASS
 
 🌱 I’m currently learning ... ReactJS and VueJS
 
-👯 I’m looking to collaborate on ... HTML, CSS, JS, PHP, MySql, VBA, Adobe Photoshop, InDesign, Figma
+👯 I’m looking to collaborate on ... HTML, CSS, JS, PHP, MySql, VBA, Adobe Photoshop, InDesign, Illustrator, XD, Figma
 
 🤔 I’m looking for help with ... ReactJS and VueJS
 
-💬 Ask me about ... what you want, if I can help
+💬 Ask me about ... what you want, if I can do something to help you
 
 📫 How to reach me: ... fabrice.chapier03400@gmail.com
 
